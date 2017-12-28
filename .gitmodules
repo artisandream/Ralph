@@ -1,0 +1,3 @@
+[submodule "Ralph/Assets/UnityUIExtensions"]
+	path = Ralph/Assets/UnityUIExtensions
+	url = https://bitbucket.org/UnityUIExtensions/unity-ui-extensions.git
